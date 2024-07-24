@@ -1,0 +1,304 @@
+nav{
+    background-color: rgb(5, 29, 90);
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    width: 100%;
+    top: 0px;
+    position: relative;
+}
+nav,h1,ul,li {
+    display: inline-block;
+}
+ul{
+    float: right;
+    padding: 7px 18px;
+    text-indent: 25px;
+}
+li:hover {
+    color: brown;
+    text-decoration: underline;
+    cursor: pointer;
+}
+li {
+    font-weight: bold;
+}
+.a {
+    background-color: rgb(33, 113, 139);
+    text-align: center;
+    width: 100px;
+    box-sizing: border-box;
+}
+.b {
+    background-color: rgb(234, 228, 228);
+}
+.c {
+    background-color: rgb(33, 113, 139);
+}
+.x {
+    width: 100%;
+    height: 90%;
+    
+}
+.am {
+   border: 7px solid white;
+   width: 70%;
+   margin: 40px;
+   position: absolute;
+   top: 100px;
+   left: 100px;
+   height: 400px;
+}
+.aw {
+    height: 400px;
+    width: 100%;
+}
+.ae {
+    height: 400px;
+    width: 100%;
+}
+.ar{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    width: 400px;
+    background-color: rgba(10, 10, 10, 0.575);
+    color: white;
+    line-height: 13px;
+    text-align: justify;
+    padding: 10px;
+}
+.p {
+    position: absolute;
+    top: 540px;
+    display: inline-block;
+    left: 100px;
+    
+}
+.p > img {
+    height: 100px;
+    width: 120px;
+    border: 5px solid white;
+    margin: 40px;
+}
+.o {
+    position: absolute;
+    top: 650px;
+    display: inline-block;
+    left: 130px;
+}
+.o > h1 {
+    height: 120px;
+    width: 120px;
+    margin: 40px;
+    font-size: small;
+}
+.i {
+    position: absolute;
+    top: 700px;
+    display: inline-block;
+    left: 130px;
+    
+}
+.i > p {
+    height: 120px;
+    width: 120px;
+    margin: 40px;
+    font-size: small;
+    display: inline-block;
+    text-align: justify;
+}
+.u {
+    position: absolute;
+    top: 770px;
+    display: inline-block;
+    left: 120px;
+    
+}
+.u > button {
+    height: 30px;
+    width: 110px;
+    margin: 50px;
+    font-size: small;
+    display: inline-block;
+    text-align: justify;
+    background-color: rgb(128, 241, 84);
+    color: white;
+    border-radius: 7px;
+    border: 5px solid white;
+    text-align: center;
+}
+.t {
+    position: absolute;
+    top: 860px;
+    display: inline-block;
+    left: 130px;
+    
+}
+.t > h1 {
+    height: 120px;
+    width: 120px;
+    margin: 80px;
+    font-size: small;
+    display: inline-block;
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+}
+.r {
+    position: absolute;
+    top: 980px;
+    left: 130px;
+    
+}
+.r > p {
+    height: 120px;
+    width: 120px;
+    margin: 6px;
+    font-size: small;
+    display: inline-block;
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+}
+.r > img {
+    height: 120px;
+    width: 120px;
+    margin: 6px;
+    font-size: small;
+    border: 5px solid white;
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+}
+.z {
+    left: 140px;
+    position: absolute;
+    top: 180px;
+    height: 20px;
+    width: 120px;
+    margin: 10px;
+    font-size: small;
+    background-color: black;
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+    color: white;
+    border-radius: 7px;
+}
+.mm {
+    position: absolute;
+    top: 980px;
+    left: 480px;
+    
+}
+.mm > p {
+    height: 90px;
+    width: 190px;
+    margin: 6px;
+    font-size: small;
+    display: inline-block;
+    color: white;
+}
+.bb {
+    height: 70px;
+    width: 70px;
+    margin: 6px;
+    font-size: small;
+    border: 5px solid rgb(255, 254, 254);
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+    border-radius: 100px;
+    position: absolute;
+    top: 140px;
+    right: 10px;
+}
+.nn{
+    position: absolute;
+    top: 150px;
+    height: 90px;
+    width: 90px;
+    margin: 6px;
+    font-size: small;
+    display: inline-block;
+    color: white;
+    right: 100px;
+}
+.ff {
+    position: absolute;
+    top: 980px;
+    left: 770px;
+    
+}
+.ff > p {
+    height: 90px;
+    width: 190px;
+    margin: 6px;
+    font-size: small;
+    display: inline-block;
+    color: white;
+}
+.l {
+    left: 1px;
+    position: absolute;
+    top: 120px;
+    height: 40px;
+    width: 170px;
+    margin: 10px;
+    font-size: small;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    color: white;
+    border-radius: 7px;
+
+}
+.k {
+    left: 1px;
+    position: absolute;
+    top: 170px;
+    height: 40px;
+    width: 150px;
+    margin: 10px;
+    font-size: small;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    color: white;
+    border-radius: 7px;
+    
+}
+.l:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.k:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.z:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.u button:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.g {
+    height: 30px;
+    width: 30px;
+    margin: 5px 10px;
+}
+.d {
+    word-spacing: 9px;
+}
+.d:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
